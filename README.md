@@ -15,31 +15,37 @@ Welcome to my GitHub! I'm Sadanand, a data science enthusiast with a passion for
 
 ## What I’m Working On 🚀
 - **AI in Football Analytics**: Developing cognitive models to analyze and support player development.
-- **Semantic Segmentation in Sports**: Using AI to understand and predict game dynamics on a pixel level.
-- **High-Performance Computing in AI**: Exploring parallel programming for complex machine learning tasks.
 
 ---
 
 ## Featured Projects 💡
 
+### Shiv Nadar University Chennai Course Code
+
 | Project | Description | Language |
 | ------- | ----------- | -------- |
-| Shiv Nadar University Chennai Course Code |||
 | [CS5002 High-Performance Architectures](https://github.com/sadanandv/CS5002High-Performance-Architectures-for-AI) | Parallel programming examples using OpenMP and MPI | C++ |
 | [CS5702 Advanced Data Structures](https://github.com/sadanandv/CS5702AdvancedDataStructures-Algorithms) | Topics from the advanced data structures course | C |
 | [CS5703 Reinforcement Learning and Multiagent Systems](https://github.com/sadanandv/CS5703-Reinforcement-Learning-and-Multiagent-Systems) | Course materials on RL and multi-agent systems | Jupyter Notebook |
 | [CS5701 Foundations for Data Engineering](https://github.com/sadanandv/CS5701-Foundations-for-Data-Engineering) | Foundational topics in data engineering | Jupyter Notebook |
-| Data Scraping |||
+
+### Data Scraping
+
+| Project | Description | Language |
+| ------- | ----------- | -------- |
 | [Transfermarkt Scraper](https://github.com/sadanandv/transfermarkt-scraper) | Extracts football transfer data from Transfermarkt | Python |
 | [Google Scholar Data Collector](https://github.com/sadanandv/Google-Scholar-Data-Collector) | Extracts key information from a scholar's profile | Python |
-| AI & Data Science |||
+
+### AI & Data Science
+
+| Project | Description | Language |
+| ------- | ----------- | -------- |
 | [Timetable Scheduler](https://github.com/sadanandv/Timetable-Scheduler-using-Genetic-Algorithm) | Academic timetable generator using genetic algorithms | Python |
 | [PremPredict](https://github.com/sadanandv/PremPredict) | Predictive analysis for football | Jupyter Notebook |
 | [Basic RAG](https://github.com/sadanandv/Basic-RAG) | Retrieval-Augmented Generation implementation with BERT and BART | Python |
 | [Semantic Segmentation Football](https://github.com/sadanandv/Semantic_Segmentation_Football) | Optimizing segmentation for football analytics | Python |
 
 ---
-
 ## Publications 📚
 
 1. **Venkataraman, S., Malakreddy, B., Khan, M. S., & Padmanabhuni, S.** (2024). "Beyond the pixels: Elevating sports analysis via AI explainability in semantic segmentation." *Nvidia GTC*.
