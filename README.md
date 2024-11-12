@@ -1,5 +1,4 @@
 ![Header](./github-header-image2.png)
-
 ---
 
 Welcome to my GitHub! I'm Sadanand, a data science enthusiast with a passion for merging AI and sports analytics. With hands-on experience in machine learning, research, and coaching, I'm focused on uncovering insights that drive decision-making in football and beyond.
