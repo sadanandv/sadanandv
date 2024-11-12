@@ -59,15 +59,6 @@ Welcome to my GitHub! I'm Sadanand, a data science enthusiast with a passion for
 9. [2023]. **B. Malakreddy A, S. Venkataraman, M. S. Khan, Nidhi, S. Padmanabhuni, and S. Natarajan**, “_Optimizing semantic segmentation for enhanced football analytics: A pixel-level approach_”, at *International Conference on Machine Learning and Data Engineering (ICMLDE 2023), vol. 235, 2024,* pp. 2662–2673. [![Cite](https://img.shields.io/badge/Elsevier-white?)](https://www.sciencedirect.com/science/article/pii/S187705092400927X)
 10. [2023]. **A. B. Malakreddy, S. Venkataraman, M. S. Khan, and S. Padmanabhuni**, “_Recent advances in semantic segmentation for sports analytics_,” in ICT Infrastructure and Computing, Goa, India, (2023)  [![Cite](https://img.shields.io/badge/Springer_Nature-white?)](https://link.springer.com/chapter/10.1007/978-981-99-4932-8_26)
 ---
-<details>
-  <summary>:zap: GitHub Statitics</summary>
-
-  <img align="left" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sadanandv&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-
-  
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MuthuPalaniappan925&theme=dark&hide_border=true)](https://git.io/streak-stats)
-</details>
----
 
 ## Let’s Connect 🤝
 If you're passionate about AI in sports, data-driven insights, or just want to chat about football, feel free to reach out!
