@@ -76,7 +76,10 @@ Welcome to my GitHub! I'm Sadanand, a data science enthusiast with a passion for
    [![Cite](https://img.shields.io/badge/Cite-blue?style=flat&logo=google-scholar)](https://scholar.google.com/)
 
 1. **B. Malakreddy A, M. S. Khan, Nidhi, S. Venkataraman, and S. Padmanabuni**,(2024) “_Beyond the pixels: Elevating sports analysis via ai explainability in semantic segmentation_”, in *Nvidia GTC, 2024*. 
- ![Static Badge](https://img.shields.io/badge/Poster)(![Static Badge](https://img.shields.io/badge/Poster)
+   [![Cite](https://img.shields.io/badge/Cite-blue?style=flat&logo=google-scholar)]([https://scholar.google.com/](https://www.nvidia.com/gtc/posters/?search=Sadanand%20Venkataraman#/session/1694175603675001Hid8))
+
+
+
 2 B. Malakreddy A, S. Venkataraman, M. S. Khan, Nidhi, S. Padmanabhuni, and S. Natarajan,
 “Optimizing semantic segmentation for enhanced football analytics: A pixel-level approach,”
 International Conference on Machine Learning and Data Engineering (ICMLDE 2023), vol. 235, 2024,
@@ -108,13 +111,6 @@ game,” Accepted for Poster Presentation at CMSAC 2023, Carnigie Mellon Univers
 
 ## Let’s Connect 🤝
 If you're passionate about AI in sports, data-driven insights, or just want to chat about football, feel free to reach out!
-
-- **LinkedIn**: [Sadanand Venkataraman](https://www.linkedin.com/in/sadanand-venkataraman/)
-- **Email**: saadanandv@gmail.com
-
----
-
-*“Bridging AI and Football to Unlock Game-Changing Insights”*
 
 - **LinkedIn**: [Sadanand Venkataraman](https://www.linkedin.com/in/sadanand-venkataraman/)
 - **Email**: saadanandv@gmail.com
