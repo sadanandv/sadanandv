@@ -24,17 +24,19 @@ Welcome to my GitHub! I'm Sadanand, a data science enthusiast with a passion for
 
 | Project | Description | Language |
 | ------- | ----------- | -------- |
-|AI & Data Science |
+| Shiv Nadar University Chennai Course Code |||
 | [CS5002 High-Performance Architectures](https://github.com/sadanandv/CS5002High-Performance-Architectures-for-AI) | Parallel programming examples using OpenMP and MPI | C++ |
 | [CS5702 Advanced Data Structures](https://github.com/sadanandv/CS5702AdvancedDataStructures-Algorithms) | Topics from the advanced data structures course | C |
 | [CS5703 Reinforcement Learning and Multiagent Systems](https://github.com/sadanandv/CS5703-Reinforcement-Learning-and-Multiagent-Systems) | Course materials on RL and multi-agent systems | Jupyter Notebook |
 | [CS5701 Foundations for Data Engineering](https://github.com/sadanandv/CS5701-Foundations-for-Data-Engineering) | Foundational topics in data engineering | Jupyter Notebook |
+| Data Scraping |||
+| [Transfermarkt Scraper](https://github.com/sadanandv/transfermarkt-scraper) | Extracts football transfer data from Transfermarkt | Python |
 | [Google Scholar Data Collector](https://github.com/sadanandv/Google-Scholar-Data-Collector) | Extracts key information from a scholar's profile | Python |
+| AI & Data Science |||
 | [Timetable Scheduler](https://github.com/sadanandv/Timetable-Scheduler-using-Genetic-Algorithm) | Academic timetable generator using genetic algorithms | Python |
 | [PremPredict](https://github.com/sadanandv/PremPredict) | Predictive analysis for football | Jupyter Notebook |
 | [Basic RAG](https://github.com/sadanandv/Basic-RAG) | Retrieval-Augmented Generation implementation with BERT and BART | Python |
 | [Semantic Segmentation Football](https://github.com/sadanandv/Semantic_Segmentation_Football) | Optimizing segmentation for football analytics | Python |
-| [Transfermarkt Scraper](https://github.com/sadanandv/transfermarkt-scraper) | Extracts football transfer data from Transfermarkt | Python |
 
 ---
 
