@@ -1,6 +1,4 @@
-
-# Sadanand Venkataraman 👋  
-*Data Scientist | AI & ML Researcher | Football Coach | Sports Analytics Enthusiast*
+![Header](./github-header-image-name.png)
 
 ---
 
