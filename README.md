@@ -76,7 +76,7 @@ Welcome to my GitHub! I'm Sadanand, a data science enthusiast with a passion for
    [![Cite](https://img.shields.io/badge/Cite-blue?style=flat&logo=google-scholar)](https://scholar.google.com/)
 
 1. **B. Malakreddy A, M. S. Khan, Nidhi, S. Venkataraman, and S. Padmanabuni**,(2024) “_Beyond the pixels: Elevating sports analysis via ai explainability in semantic segmentation_”, in *Nvidia GTC, 2024*. 
-   [![Cite](https://img.shields.io/badge/Cite-blue?style=flat&logo=google-scholar)](https://www.nvidia.com/gtc/posters/?search=Sadanand%20Venkataraman#/session/1694175603675001Hid8)
+   [![Cite]](https://www.nvidia.com/gtc/posters/?search=Sadanand%20Venkataraman#/session/1694175603675001Hid8)
 
 
 
