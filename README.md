@@ -75,16 +75,10 @@ Welcome to my GitHub! I'm Sadanand, a data science enthusiast with a passion for
 9. **Venkataraman, S., Sundharakumar, K., Malakreddy, A. B., & Natarajan, S.** (2024). "An AI-driven approach to the guessing game: Leveraging LLAMA-3.1." *Taylor’s University, Malaysia*.
    [![Cite](https://img.shields.io/badge/Cite-blue?style=flat&logo=google-scholar)](https://scholar.google.com/)
 
-1. **B. Malakreddy A, M. S. Khan, Nidhi, S. Venkataraman, and S. Padmanabuni**,(2024) “_Beyond the pixels: Elevating sports analysis via ai explainability in semantic segmentation_”, in *Nvidia GTC, 2024*. 
-   [![Cite](https://img.shields.io/badge/Poster-green)](https://www.nvidia.com/gtc/posters/?search=Sadanand%20Venkataraman#/session/1694175603675001Hid8)
+1. **B. Malakreddy A, M. S. Khan, Nidhi, S. Venkataraman, and S. Padmanabuni**,(2024) “_Beyond the pixels: Elevating sports analysis via ai explainability in semantic segmentation_”, in *Nvidia GTC, 2024*. [![Cite](https://img.shields.io/badge/Poster-green)](https://www.nvidia.com/gtc/posters/?search=Sadanand%20Venkataraman#/session/1694175603675001Hid8)
 
+2. **B. Malakreddy A, S. Venkataraman, M. S. Khan, Nidhi, S. Padmanabhuni, and S. Natarajan**, “_Optimizing semantic segmentation for enhanced football analytics: A pixel-level approach_”, at *International Conference on Machine Learning and Data Engineering (ICMLDE 2023), vol. 235, 2024,* pp. 2662–2673. [![Cite](https://img.shields.io/badge/Cite-blue?)](https://www.sciencedirect.com/science/article/pii/S187705092400927X)
 
-
-
-2 B. Malakreddy A, S. Venkataraman, M. S. Khan, Nidhi, S. Padmanabhuni, and S. Natarajan,
-“Optimizing semantic segmentation for enhanced football analytics: A pixel-level approach,”
-International Conference on Machine Learning and Data Engineering (ICMLDE 2023), vol. 235, 2024,
-pp. 2662–2673.
 3 M. Palaniappan, V. Sadanand, K. Sundharakumar, A. B. Malakreddy, and S. Natarajan, “An ai-driven
 approach to the guessing game: Leveraging llama-3.1,” Taylor’s University, Malaysia, 2024.
 4 S. Venkataraman, K. Sundharakumar, A. Bharathi Malakreddy, and S. Natarajan, “Yuva-sq: A
