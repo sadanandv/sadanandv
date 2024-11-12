@@ -24,6 +24,7 @@ Welcome to my GitHub! I'm Sadanand, a data science enthusiast with a passion for
 
 | Project | Description | Language |
 | ------- | ----------- | -------- |
+|AI & Data Science |
 | [CS5002 High-Performance Architectures](https://github.com/sadanandv/CS5002High-Performance-Architectures-for-AI) | Parallel programming examples using OpenMP and MPI | C++ |
 | [CS5702 Advanced Data Structures](https://github.com/sadanandv/CS5702AdvancedDataStructures-Algorithms) | Topics from the advanced data structures course | C |
 | [CS5703 Reinforcement Learning and Multiagent Systems](https://github.com/sadanandv/CS5703-Reinforcement-Learning-and-Multiagent-Systems) | Course materials on RL and multi-agent systems | Jupyter Notebook |
