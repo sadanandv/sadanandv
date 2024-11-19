@@ -24,6 +24,7 @@ Welcome to my GitHub! I'm Sadanand, a data science enthusiast with a passion for
 
 | Project | Description | Language |
 | ------- | ----------- | -------- |
+| [Football Simulation](https://github.com/sadanandv/football_simulation) | Environment for agents to mimic a football game | Python |
 | [Timetable Scheduler](https://github.com/sadanandv/Timetable-Scheduler-using-Genetic-Algorithm) | Academic timetable generator using genetic algorithms | Python |
 | [PremPredict](https://github.com/sadanandv/PremPredict) | Predictive analysis for football | Jupyter Notebook |
 | [Basic RAG](https://github.com/sadanandv/Basic-RAG) | Retrieval-Augmented Generation implementation with BERT and BART | Python |
