@@ -6,11 +6,9 @@ Welcome to my GitHub! I'm Sadanand, a data science enthusiast with a passion for
 ---
 
 ## About Me 🧑‍💻
-- **Current Role**: M.Tech in Artificial Intelligence & Data Science at Shiv Nadar University, Chennai
-- **Background**: Bachelor's in AI & Machine Learning | Football Coach with AIFF D License
+- **Current Role**: Junior Research Fellow at Shiv Nadar University, Chennai
+- **Background**: Masters's in AI & Data Science | Football Coach with AIFF D License
 - **Research Interests**: Cognitive Analytics, Sports Analytics, Data Science, AI in Sports
-- **Projects**: Focused on using AI to elevate sports performance, decision-making, and talent identification.
-
 ---
 
 ## What I’m Working On 🚀
@@ -24,7 +22,6 @@ Welcome to my GitHub! I'm Sadanand, a data science enthusiast with a passion for
 
 | Project | Description | Language |
 | ------- | ----------- | -------- |
-| [Football Simulation](https://github.com/sadanandv/football_simulation) | Environment for agents to mimic a football game | Python |
 | [Timetable Scheduler](https://github.com/sadanandv/Timetable-Scheduler-using-Genetic-Algorithm) | Academic timetable generator using genetic algorithms | Python |
 | [PremPredict](https://github.com/sadanandv/PremPredict) | Predictive analysis for football | Jupyter Notebook |
 | [Basic RAG](https://github.com/sadanandv/Basic-RAG) | Retrieval-Augmented Generation implementation with BERT and BART | Python |
@@ -49,16 +46,17 @@ Welcome to my GitHub! I'm Sadanand, a data science enthusiast with a passion for
 ---
 ## Publications 📚
 
-1. [2024]. **M. Palaniappan, V. Sadanand, K. Sundharakumar, A. B. Malakreddy, and S. Natarajan**, “_An ai-driven approach to the guessing game: Leveraging llama-3.1_”, in *Taylor’s University, Malaysia*, 2024.
-2. [2024]. **S. Venkataraman, K. Sundharakumar, A. B. Malakreddy, and S. Natarajan**, “_Redefining talent identification in football: The YUVA-SQ model_”in *Indian Institute of Management, Udaipur, India, (Mathsport Asia 2024)*
-3. [2024]. **S. Venkataraman, K. Sundharakumar, A. B. Malakreddy, and S. Natarajan**, “_Decoding the psyche: Engineering psychological profiles in football through yoda analysis_”, in *The Engineering of Sport 15, Loughborough University, UK, (ISEA 2024)*
-4. [2024]. **S. Venkataraman, K. Sundharakumar, A. B. Malakreddy, and S. Natarajan**, “_Unveiling the mental game: Leveraging yoda psychometry in football performance analysis_”, in *La Trobe University, Melbourne, Australia, (ANZIM Mathsport 2024)* [![Cite](https://img.shields.io/badge/Proceedings_Book-blue?)](https://www.anziam.org.au/tiki-download_file.php?fileId=187)
-5. [2024]. **S. Venkataraman, K. Sundharakumar, A. B. Malakreddy, and S. Natarajan**, “_Yuva-SQ: Scouting intelligent minds for the beautiful game_”, in *Society for Brain Mapping & Theraputics, Los Angeles, CA, USA, 2024*
-6. [2024]. **S. Venkataraman, K. Sundharakumar, A. Bharathi Malakreddy, and S. Natarajan**, “_Yuva-sq: A cognitive scouting model for the beautiful game_,” in *5th International Conference on Innovative Trends in Information Technology (ICITIIT 2024)* [![Cite](https://img.shields.io/badge/IEEE-blue?)](https://ieeexplore.ieee.org/document/10580784)
-7. [2024]. **B. Malakreddy A, M. S. Khan, Nidhi, S. Venkataraman, and S. Padmanabuni**,(2024) “_Beyond the pixels: Elevating sports analysis via ai explainability in semantic segmentation_”, in *Nvidia GTC, 2024*. [![Cite](https://img.shields.io/badge/Poster-green)](https://www.nvidia.com/gtc/posters/?search=Sadanand%20Venkataraman#/session/1694175603675001Hid8)
-8. [2023]. **S. Venkataraman, S. Natarajan, and B. M. A**, “_Yuva-SQ: Scouting intelligent minds for the beautiful game_” Accepted for Poster Presentation at *Carnigie Mellon University, Pittsburg, PA, (CMSAC 2023)*
-9. [2023]. **B. Malakreddy A, S. Venkataraman, M. S. Khan, Nidhi, S. Padmanabhuni, and S. Natarajan**, “_Optimizing semantic segmentation for enhanced football analytics: A pixel-level approach_”, at *International Conference on Machine Learning and Data Engineering (ICMLDE 2023), vol. 235, 2024,* pp. 2662–2673. [![Cite](https://img.shields.io/badge/Elsevier-white?)](https://www.sciencedirect.com/science/article/pii/S187705092400927X)
-10. [2023]. **A. B. Malakreddy, S. Venkataraman, M. S. Khan, and S. Padmanabhuni**, “_Recent advances in semantic segmentation for sports analytics_,” in ICT Infrastructure and Computing, Goa, India, (2023)  [![Cite](https://img.shields.io/badge/Springer_Nature-white?)](https://link.springer.com/chapter/10.1007/978-981-99-4932-8_26)
+1. [2025]. **S. Venkataraman, K. Sundharakumar, A. B. Malakreddy, H. Murthy, and S. Natarajan**, “_Multisport YODA: Leveraging LLMs for Cognition based Comprehensive Performance Analytics_”in *University of Luxembourg, Luxembourg, (Mathsport International 2025)*
+2. [2025]. **M. Palaniappan, V. Sadanand, K. Sundharakumar, A. B. Malakreddy, and S. Natarajan**, “_An ai-driven approach to the guessing game: Leveraging llama-3.1_”, in *Taylor’s University, Malaysia*, 2024.
+3. [2024]. **S. Venkataraman, K. Sundharakumar, A. B. Malakreddy, and S. Natarajan**, “_Redefining talent identification in football: The YUVA-SQ model_”in *Indian Institute of Management, Udaipur, India, (Mathsport Asia 2024)*
+4. [2024]. **S. Venkataraman, K. Sundharakumar, A. B. Malakreddy, and S. Natarajan**, “_Decoding the psyche: Engineering psychological profiles in football through yoda analysis_”, in *The Engineering of Sport 15, Loughborough University, UK, (ISEA 2024)*
+5. [2024]. **S. Venkataraman, K. Sundharakumar, A. B. Malakreddy, and S. Natarajan**, “_Unveiling the mental game: Leveraging yoda psychometry in football performance analysis_”, in *La Trobe University, Melbourne, Australia, (ANZIM Mathsport 2024)* [![Cite](https://img.shields.io/badge/Proceedings_Book-blue?)](https://www.anziam.org.au/tiki-download_file.php?fileId=187)
+6. [2024]. **S. Venkataraman, K. Sundharakumar, A. B. Malakreddy, and S. Natarajan**, “_Yuva-SQ: Scouting intelligent minds for the beautiful game_”, in *Society for Brain Mapping & Theraputics, Los Angeles, CA, USA, 2024*
+7. [2024]. **S. Venkataraman, K. Sundharakumar, A. Bharathi Malakreddy, and S. Natarajan**, “_Yuva-sq: A cognitive scouting model for the beautiful game_,” in *5th International Conference on Innovative Trends in Information Technology (ICITIIT 2024)* [![Cite](https://img.shields.io/badge/IEEE-blue?)](https://ieeexplore.ieee.org/document/10580784)
+8. [2024]. **B. Malakreddy A, M. S. Khan, Nidhi, S. Venkataraman, and S. Padmanabuni**,(2024) “_Beyond the pixels: Elevating sports analysis via ai explainability in semantic segmentation_”, in *Nvidia GTC, 2024*. [![Cite](https://img.shields.io/badge/Poster-green)](https://www.nvidia.com/gtc/posters/?search=Sadanand%20Venkataraman#/session/1694175603675001Hid8)
+9. [2023]. **S. Venkataraman, S. Natarajan, and B. M. A**, “_Yuva-SQ: Scouting intelligent minds for the beautiful game_” Accepted for Poster Presentation at *Carnigie Mellon University, Pittsburg, PA, (CMSAC 2023)*
+10. [2023]. **B. Malakreddy A, S. Venkataraman, M. S. Khan, Nidhi, S. Padmanabhuni, and S. Natarajan**, “_Optimizing semantic segmentation for enhanced football analytics: A pixel-level approach_”, at *International Conference on Machine Learning and Data Engineering (ICMLDE 2023), vol. 235, 2024,* pp. 2662–2673. [![Cite](https://img.shields.io/badge/Elsevier-white?)](https://www.sciencedirect.com/science/article/pii/S187705092400927X)
+11. [2023]. **A. B. Malakreddy, S. Venkataraman, M. S. Khan, and S. Padmanabhuni**, “_Recent advances in semantic segmentation for sports analytics_,” in ICT Infrastructure and Computing, Goa, India, (2023)  [![Cite](https://img.shields.io/badge/Springer_Nature-white?)](https://link.springer.com/chapter/10.1007/978-981-99-4932-8_26)
 ---
 
 ## Let’s Connect 🤝
